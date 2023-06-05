@@ -1,0 +1,32 @@
+.box2 {
+    display:flex ;
+    justify-content:center;
+    align-items: center;
+}
+
+.box {
+    background-color: white;
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    height: 270px;
+    width: 300px;
+    padding: 60px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+img {
+    padding: 0;
+    height : 250px;
+    width: 250px;
+    margin: 50px 10px 5px 10px;
+
+}
+
+ p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    
+ }
